@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(137, 120, 246);
+}
+
+img {
+    width: 12%;
+    border-radius: 50%;
+}
+
+p, 
+a,
+li {
+    font-size: 1.2rem;
+}
